@@ -1,5 +1,9 @@
 # MosslandXR
 
+<!-- opendevs-badges:start -->
+[![Repository: MosslandOpenDevs](https://img.shields.io/badge/Repository-MosslandOpenDevs-64748b?style=flat)](https://github.com/MosslandOpenDevs/MosslandXR)
+<!-- opendevs-badges:end -->
+
 > 📌 **2026 Research Update.** Between 2024 and 2026 this repo's pose-estimation work landed at the center of **Physical AI** — Vision-Language-Action (VLA) foundation models (OpenVLA, π0/π0.5, Gemini Robotics, NVIDIA GR00T N1, Figure Helix), world/physics simulators (Cosmos, Genesis, Newton), and humanoid platforms increasingly **trained from human motion**. See **[2026 Physical AI & Embodied Intelligence](2026_Physical_AI_and_Embodied_Intelligence.md)** for the sourced review and Mossland's revised angle: reposition the pose pipeline as the **data + evaluation layer** of embodied AI (not a metaverse side-quest).
 
 ## About MosslandXR
